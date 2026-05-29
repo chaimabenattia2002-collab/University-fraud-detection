@@ -1,0 +1,4 @@
+# Kafka and Spark dependencies for University Fraud Detection System
+pyspark==3.5.8
+kafka-python==2.0.2
+faker==24.0.0
